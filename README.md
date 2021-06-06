@@ -2,7 +2,7 @@
 
 # Mesopotamia Font Version 0.1 Alpha
   
-# This font contain glyphs for realizing the Ancient Mesoapotamian Pictographs prototypes for such alphabets as AKKADIAN and ASHUR (Syriac) for the comparation tables.
+# This font contain glyphs for realizing the Ancient Mesopotamian Pictographs prototypes for such alphabets as AKKADIAN and ASHUR (Syriac) for the comparation tables in archaeology books. ##
  
 The fonts are encoded acording  to unicode.org font subset maps.
    
