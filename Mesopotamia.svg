@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <!-- ============================================================= -->
+    <!-- Mesopotamia Font                                                  -->
+    <!-- Mesopotamian Letters and Numbers Starting U+12000-12543 
+    <!-- ============================================================= -->
+<metadata id="metadata41">
+<Work about="Mesopotamia">
+<type resource="http://purl.org/dc/dcmitype/StillImage" />
+<title>Mesopotamia</title>
+<license resource="http://beitdina.net/" />
+<language>Mesopotamian</language>
+<publisher>
+<Agent>
+<title>beitdina.net</title>
+</Agent>
+</publisher>
+</Work>
+Created with FontForge 2.0 : Mesopotamia : 2-6-2021 by Florin Ciprian Bodin (C) Copyright 2021-2022 International Institute of Biblical Archaeology and Linguistic Reasearch "Beit Dina" (www.beitdina.net); 
+</metadata>
+<defs>
+<font id="Mesopotamia" horiz-adv-x="1159">
+<font-face 
+    font-family="Mesopotamia"
+    font-weight="1024"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="1 1 3 1 1 1 1 1 1 1"
+    panose-2="2 11 6 4 3 5 4 4 2 4"
+    ascent="820"
+    descent="-210"
+    x-height="705"
+    cap-height="554"
+    bbox="-23 -188 1798 820"
+    underline-thickness="21"
+    underline-position="-150"
+    unicode-range="U+12000-12543"
+  />
+     <missing-glyph horiz-adv-x="512" 
+   
+      />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+      />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="512" 
+      />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+     />
+ 
+<missing-glyph  />
+    <glyph glyph-name="Separator" unicode="&#x1091f;" horiz-adv-x="1024" 
+   
+   />
+</font>
+</defs>
+	<text x="22.28172" y="12.90915" font-family="Mesopotamia" font-size="16" style="font-size:16.42545319px;font-family:Mesopotamia" transform="scale(0.98407633,1.0161813)">𐤀𐤁𐤂𐤃𐤄𐤅𐤆𐤇𐤈𐤉𐤊𐤋𐤌𐤍𐤎𐤏𐤐𐤑𐤒𐤓𐤔𐤕𐤖𐤗𐤘𐤙𐤚𐤛𐤜𐤝𐤞𐤟</text>
+	<text x='11.28172' y='78.90915' font-family='Mesopotamia' font-size='32' style="font-size:31.42545319px;font-family:Mesopotamia" transform="scale(0.98407633,1.0161813)">𐤀𐤁𐤂𐤃𐤄𐤅𐤆𐤇𐤈𐤉𐤊𐤋𐤌𐤍𐤎𐤏𐤐𐤑𐤒𐤓𐤔𐤕𐤖𐤗𐤘𐤙𐤚𐤛𐤜𐤝𐤞𐤟</text>
+</svg>
