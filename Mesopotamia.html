@@ -1,0 +1,81 @@
+<!doctype html>
+			<html>
+			<head>
+			<title>Mesopotamia</title>
+			<style>
+				@font-face {
+					font-family: "Mesopotamia";
+					src: url("Mesopotamia.svg") format("svg"),
+					     url("Mesopotamia.woff") format("woff"),
+					     url("Mesopotamia.ttf") format("truetype");
+					font-weight: normal;
+					font-style: normal;
+				}
+				body {
+					font-family: sans-serif;
+					color: #444;
+					line-height: 1.5;
+					font-size: 16px;
+					padding: 20px;
+				}
+				* {
+					-moz-box-sizing: border-box;
+					-webkit-box-sizing: border-box;
+					box-sizing: border-box;
+					margin: 0;
+					paddin: 0;
+				}
+				.glyph{
+					display: inline-block;
+					width: 120px;
+					margin: 10px;
+					text-align: center;
+					vertical-align: top;
+					background: #eee;
+					border-radius: 10px;
+					box-shadow: 1px 1px 5px rgba(0, 0, 0, .2);
+				}
+				.glyph-icon{
+					padding: 10px;
+					display: block;
+					font-family: "Mesopotamia";
+					font-size: 64px;
+					line-height: 1;
+				}
+				.glyph-icon:before{
+					content: attr(data-icon);
+				}
+				.class-name{
+					font-size: 12px;
+				}
+				.glyph > input{
+					display: block;
+					width: 100px;
+					margin: 5px auto;
+					text-align: center;
+					font-size: 12px;
+					cursor: text;
+				}
+				.glyph > input.icon-input{
+					font-family: "Mesopotamia";
+					font-size: 16px;
+					margin-bottom: 10px;
+				}
+			</style>
+			</head>
+			<body>
+			<section id="glyphs"><div class="glyph">
+				<div class="glyph-icon" data-icon="&#x1208d;"></div>
+				<div class="class-name">icon-E2</div>
+				<input type="text" readonly="readonly" value="&amp;#x1208d;" />
+				<input type="text" readonly="readonly" value="\1208d" />
+				<input type="text" readonly="readonly" value="&#x1208d;" class="icon-input" />
+			</div><div class="glyph">
+				<div class="glyph-icon" data-icon="&#x1211e;"></div>
+				<div class="class-name">icon-Gud</div>
+				<input type="text" readonly="readonly" value="&amp;#x1211e;" />
+				<input type="text" readonly="readonly" value="\1211e" />
+				<input type="text" readonly="readonly" value="&#x1211e;" class="icon-input" />
+			</div></section>
+			</body>
+		</html>
