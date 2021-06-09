@@ -40,7 +40,7 @@ body {
 .glyph-icon{
 	padding: 10px;
 	display: block;
-	font-family: "Mesopotamia";
+	font-family: "Mesopotamian";
 	font-size: 64px;
 	line-height: 1;
 }
@@ -59,7 +59,7 @@ body {
 	cursor: text;
 }
 .glyph > input.icon-input{
-	font-family: "Mesopotamia";
+	font-family: "Mesopotamian";
 	font-size: 16px;
 	margin-bottom: 10px;
 }
