@@ -40,7 +40,7 @@ body {
 .glyph-icon{
 	padding: 10px;
 	display: block;
-	font-family: "Mesopotamia";
+	font-family: "Mesopotamian";
 	font-size: 64px;
 	line-height: 1;
 }
@@ -59,7 +59,7 @@ body {
 	cursor: text;
 }
 .glyph > input.icon-input{
-	font-family: "Mesopotamia";
+	font-family: "Mesopotamian";
 	font-size: 16px;
 	margin-bottom: 10px;
 }
@@ -67,6 +67,9 @@ body {
 .sr-only-focusable:active,.sr-only-focusable:focus{ position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto }
 .icon-Gud:before {
 	content: "\1211e";
+}
+.icon-Ab2:before {
+	content: "\12016";
 }
 .icon-E2:before {
 	content: "\1208d";
