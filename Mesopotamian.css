@@ -68,14 +68,26 @@ body {
 .icon-Gud:before {
 	content: "\1211e";
 }
+.icon-Lu2:before {
+	content: "\121fd";
+}
 .icon-Ab2:before {
 	content: "\12016";
 }
 .icon-E2:before {
 	content: "\1208d";
 }
+.icon-Ud:before {
+	content: "\12013";
+}
 .icon-Anshe:before {
 	content: "\12032";
+}
+.icon-U:before {
+	content: "\1200b";
+}
+.icon-Hi:before {
+	content: "\12122";
 }
 .icon-Kud:before {
 	content: "\12128";
