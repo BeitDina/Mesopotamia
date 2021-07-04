@@ -1,5 +1,5 @@
 /*
-			! Mesopotamian Font ! 
+			! Mesopotamian ! 
 		 */
 	@font-face {
 		  font-family:'Mesopotamian'; 
@@ -64,23 +64,26 @@
 				margin-bottom: 10px;
 		}
 		.sr-only{ position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);border:0 }
-		.sr-only-focusable:active,.sr-only-focusable:focus{ position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto }.icon-Gud:before {
+		.sr-only-focusable:active,.sr-only-focusable:focus{ position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto }.icon-A:before {
+	content: "\12000";
+}
+.icon-An:before {
+	content: "\1202d";
+}
+.icon-Anshe:before {
+	content: "\12032";
+}
+.icon-Gud:before {
 	content: "\1211e";
 }
-.icon-Lu2:before {
-	content: "\121fd";
+.icon-Ud:before {
+	content: "\12013";
 }
 .icon-Ab2:before {
 	content: "\12016";
 }
 .icon-E2:before {
 	content: "\1208d";
-}
-.icon-Ud:before {
-	content: "\12013";
-}
-.icon-Anshe:before {
-	content: "\12032";
 }
 .icon-U:before {
 	content: "\1200b";
@@ -90,6 +93,15 @@
 }
 .icon-Kud:before {
 	content: "\12128";
+}
+.icon-Lu2:before {
+	content: "\121fd";
+}
+.icon-u120DF:before {
+	content: "\120df";
+}
+.icon-ninda:before {
+	content: "\120fb";
 }
 .icon-u121FB:before {
 	content: "\121fb";
